@@ -68,14 +68,6 @@ Example cron job to run log cleanup daily at midnight:
 0 0 * * * /path/to/cleanup_logs.sh
 ```
 
-## Contribution
-Feel free to contribute by submitting issues or pull requests.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-For any questions, reach out via GitHub Issues or contact the maintainer.
 
 
